@@ -5,7 +5,7 @@ class NotificationMailer < ApplicationMailer
   #
   #   en.notification_mailer.new_accout.subject
   #
-  def new_accout(user)
+  def new_account(user)
     @user = user
         
     mail(to: user.email, subject: "Acount #{@user} is now active")
