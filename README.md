@@ -1,24 +1,9 @@
-# README
+Using Action Mailer in app, project completed from chapter 11 in Learn Rails 5.2: Accelerated Web Development with Ruby on Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Source: https://www.amazon.com/Learn-Rails-5-2-Accelerated-Development/dp/148423488X
 
-* Ruby version
 
-* System dependencies
+# Technologies and tools
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby on Rails
