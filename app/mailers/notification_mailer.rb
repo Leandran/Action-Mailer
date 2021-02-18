@@ -8,6 +8,6 @@ class NotificationMailer < ApplicationMailer
   def new_account(user)
     @user = user
         
-    mail(to: user.email, subject: "Acount #{@user} is now active")
+    mail(to: user.email, subject: "Account #{@user} is now active")
   end
 end
